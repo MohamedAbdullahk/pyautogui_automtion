@@ -1,0 +1,19 @@
+Fetched at: 2026-08-27 00:44:33
+Source: https://www.cricbuzz.com/cricket-match/live-scores
+Screenshot: cricbuzz_output\cricbuzz_score.png
+--------------------------------------------------
+Live Scores
+Schedule
+Archives
+News
+Series
+Teams
+Videos
+Rankings
+More
+Go Premium
+MATCHES
+IND vs SL - Stumps
+ENG vs PAK - Preview
+ADF vs RDD - RDD won
+VKK vs TRI - VKK won
