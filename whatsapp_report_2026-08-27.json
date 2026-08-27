@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Riyaz Thadi",
+    "phone": "+918667084918",
+    "message": "Hi Riyaz Thadi, Hope you understand and finish Day3 Playwright Assignment!",
+    "status": "send_unconfirmed",
+    "error": null,
+    "screenshot": "screenshots\\Riyaz_Thadi.png",
+    "last_messages": [],
+    "timestamp": "2026-08-27T12:43:47"
+  },
+  {
+    "name": "Uvais Mca",
+    "phone": "+919655161871",
+    "message": "Hi Uvais Mca, how are you? I have some doubts, kindly ping me once you free.",
+    "status": "send_unconfirmed",
+    "error": null,
+    "screenshot": "screenshots\\Uvais_Mca.png",
+    "last_messages": [],
+    "timestamp": "2026-08-27T12:44:30"
+  }
+]
